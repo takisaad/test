@@ -1,2 +1,1 @@
-# test
-test repo
+this is a test repositery, i just wanted to learn how to put my projects on github ....
